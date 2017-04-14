@@ -1,0 +1,2 @@
+class HotPot < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+module SlashHelper
+end
